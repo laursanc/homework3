@@ -15,7 +15,7 @@ body{
   font-family: 'Andika', sans-serif;
   background-size: cover ;
   background-position: center;
-  background-image: url("../images/pigeon-background.jpeg");
+  background-image: url("../images/pigeon-background.JPEG");
   background-color: #DDDDDD ;
   background-repeat: no-repeat ;
 }
@@ -53,9 +53,9 @@ table{
 }
 
 .colhead{
-  background-color: #7e0830;
+  background-color: #7e0820;
   color: #FFFFFF;
-  min-width: 150px;
+  min-width: 125px;
   padding: 10 px;
   text-transform: uppercase;
   text-align: center;
@@ -113,6 +113,8 @@ footer{
   text-align:center;
   color: #FFFFFF;
   min-height: 75px;
-  position: absolute;
+  position: relative;
+  left: 0;
+  bottom:0;
 }
 
